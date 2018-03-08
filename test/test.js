@@ -1,3 +1,5 @@
+"use strict";
+
 let request = require("request");
 let should = require("should");
 let expect = require("chai").expect;
